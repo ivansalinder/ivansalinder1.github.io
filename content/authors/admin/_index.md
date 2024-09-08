@@ -67,17 +67,17 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 24
         icon: chart-bar
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -93,6 +93,7 @@ skills:
         description: ''
         percent: 80
         icon: camera
+  
 
 languages:
   - name: English
@@ -100,11 +101,19 @@ languages:
   - name: Russian
     percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
+# Awards.
+#  Спортивыне достижения в волейболе
+#  Сдача ЕГЭ
+#  1 место в региональной олимпиаде по математике
+work:
+  - position: Подработка в IT компании
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+   
 ---
 
 ## About Me
