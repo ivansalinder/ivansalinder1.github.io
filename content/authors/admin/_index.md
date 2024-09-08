@@ -31,20 +31,19 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+    url: https://www.elibrary.ru/defaultx.asp
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://scholar.google.com/;
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.researchgate.net/;
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/ivansalinder/ivansalinder1.github.io/actions/workflows/publish.yaml
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/;
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.academia.edu/;
 
 interests:
   - Учеба
