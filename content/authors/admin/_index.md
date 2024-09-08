@@ -101,15 +101,6 @@ languages:
   - name: Russian
     percent: 100
 
-
-work:
-  - position: Подработка в IT компании
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-   
 ---
 
 ## About Me
