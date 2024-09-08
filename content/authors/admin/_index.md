@@ -39,6 +39,8 @@ profiles:
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
@@ -67,17 +69,17 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 60
+        percent: 80
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 24
+        percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Хобби
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -93,13 +95,17 @@ skills:
         description: ''
         percent: 80
         icon: camera
-  
 
 languages:
   - name: English
     percent: 50
   - name: Russian
     percent: 100
+
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 ---
 
