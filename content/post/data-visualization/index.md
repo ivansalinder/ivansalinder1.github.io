@@ -1,6 +1,6 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
+title: 📈 Эффективно сообщайте о своих результатах с помощью лучших средств визуализации данных / Communicate your results effectively with the best data visualizations
+summary: Используйте популярные инструменты, такие как Plotly, Mermaid и фреймы данных. / Use popular tools such as Plotly, Mermaid, and data frames.
 date: 2023-10-25
 authors:
   - admin
@@ -12,9 +12,8 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+Hugo Blox создан для того, чтобы предоставить создателям технического контента удобство работы. Вы можете сосредоточиться на контенте, а Хьюго Блокс сделает все остальное. / Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
 
-Use popular tools such as Plotly, Mermaid, and data frames.
 
 ## Charts
 
